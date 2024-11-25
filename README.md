@@ -49,4 +49,4 @@ To view the full analysis:
    ```bash
    git clone https://github.com/MgSO477/STAT201_GPA_relationship_status_study.git
    cd stat201-cgpa-study
-2. Open the GPA_and_relationship_sudy.html file in a browser to explore the methods, results, and visualizations.
+2. Open the `GPA_and_relationship_sudy.html` file in a browser to explore the methods, results, and visualizations.
